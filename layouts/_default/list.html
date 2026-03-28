@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="writing-list">
+  <h1>{{ .Title }}</h1>
+
+  {{ range .Pages.ByDate.Reverse }}
+  <article class="piece-link">
+    <a href="{{ .RelPermalink }}">
+      <span class="piece-title">{{ .Title }}</span>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006" }}</time>
+    </a>
+  </article>
+  {{ end }}
+</section>
+{{ end }}

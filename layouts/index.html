@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="home">
+  <h1>{{ .Site.Title }}</h1>
+  {{ with .Site.Params.description }}<p class="home-description">{{ . }}</p>{{ end }}
+
+  <div class="recent-writing">
+    {{ range (where .Site.RegularPages "Section" "escritos").ByDate.Reverse }}
+    <article class="piece-link">
+      <a href="{{ .RelPermalink }}">
+        <span class="piece-title">{{ .Title }}</span>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006" }}</time>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

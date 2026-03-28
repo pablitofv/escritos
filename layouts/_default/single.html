@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="piece">
+  <header class="piece-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="piece-subtitle">{{ . }}</p>{{ end }}
+  </header>
+
+  <div class="piece-body">
+    {{ .Content }}
+  </div>
+
+  <footer class="piece-footer">
+    <a href="{{ if eq .Section "escritos" }}/escritos/{{ else }}/{{ end }}">&larr; Volver</a>
+  </footer>
+</article>
+{{ end }}

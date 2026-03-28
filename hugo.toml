@@ -1,0 +1,24 @@
+baseURL = "https://yourdomain.com/"
+languageCode = "es"
+title = "Pablo Fernández Vallejo"
+
+[params]
+  description = "Escritos"
+  author = "Pablo Fernández Vallejo"
+
+[menu]
+  [[menu.main]]
+    name = "Escritos"
+    url = "/escritos/"
+    weight = 1
+  [[menu.main]]
+    name = "Sobre mí"
+    url = "/sobre/"
+    weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = true
