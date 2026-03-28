@@ -4,7 +4,6 @@ date: 2026-03-15
 subtitle: ""
 ---
 
-# Desma y Topo
 
 Topo cruza Corrientes, dobla en Gascón y baja en dirección a Sarmiento. Unos metros después se frena y entra en un localcito que no dice mucho de afuera más allá de un ploteo en letras plateadas sobre un fondo negro que dice NetWorld.
 
