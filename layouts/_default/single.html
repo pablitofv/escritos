@@ -3,7 +3,7 @@
   <header class="piece-header">
     <h1>{{ .Title }}</h1>
     {{ with .Params.subtitle }}<p class="piece-subtitle">{{ . }}</p>{{ end }}
-    {{ if eq .Section "escritos" }}<time class="piece-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2006" }}</time>{{ end }}
+    {{ if eq .Section "escritos" }}{{ $months := dict "January" "enero" "February" "febrero" "March" "marzo" "April" "abril" "May" "mayo" "June" "junio" "July" "julio" "August" "agosto" "September" "septiembre" "October" "octubre" "November" "noviembre" "December" "diciembre" }}<time class="piece-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ index $months (.Date.Format "January") }} {{ .Date.Format "2006" }}</time>{{ end }}
   </header>
 
   <div class="piece-body">
