@@ -10,7 +10,7 @@
   </div>
 
   <footer class="piece-footer">
-    <a href="{{ if eq .Section "escritos" }}/escritos/{{ else }}/{{ end }}">&larr; Volver</a>
+    <a href="{{ if eq .Section "escritos" }}{{ "escritos/" | relURL }}{{ else }}{{ "/" | relURL }}{{ end }}">&larr; Volver</a>
   </footer>
 </article>
 {{ end }}
