@@ -55,6 +55,15 @@ h1 {
   margin-bottom: var(--spacing-unit);
 }
 
+.piece-body h3 {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--color-text-secondary);
+  margin-top: calc(var(--spacing-unit) * 2);
+  margin-bottom: calc(var(--spacing-unit) * 0.75);
+}
 a {
   color: var(--color-link);
   text-decoration: none;

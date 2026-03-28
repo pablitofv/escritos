@@ -5,7 +5,7 @@ subtitle: ""
 ---
 
 
-12 de Julio
+### 12 de Julio
 
 Cierro la puerta. Me grabo al hacerlo. Lo hago un par de veces hasta tener la toma perfecta. Estoy en detox de redes sociales y me pregunto si alguien verá este clip de tres segundos algún día. Igual lo grabo.  
 
@@ -21,13 +21,13 @@ Me meto en una Esso. Compro una Coca Zero que no deseo y pregunto por el baño. 
 
 Camino por una calle ondulante. Llego a la plaza principal que se abre con una vista zarpadamente gloriosa. Pienso en la ciudad, en Kevin Lynch y en ese libro que me gustaría haber leído o, mejor dicho, ese libro que me gustaría decir que he leído porque cada vez que lo agarro lo suelto al cabo de un par de páginas. 
 
-13 de Julio
+### 13 de Julio
 
 Abro la cajita de metal que está en la base de la cruz blanca. Saco el libro de visitas del cementerio. No hay muchas firmas. La primera es del embajador inglés, la última es la mía. 
 
 Me meto en un café que no está en Maps. Saludo como si supiera lo que hago y pido un café con leche. Leo el diario en papel. Son casi todas notas intrascendentes de hechos extremadamente locales: un joven que anda en bici por una causa solidaria, una feria de artesanos que arranca el finde que viene. Me anoto algunos titulares que me parecen graciosos. El café es en realidad un canto bar dedicado a Johnny Hallyday, hay muchas fotos de él sobre una pared decorada con un mural de lobos aullando. En el baño hay un cartel que dice “No vomitar en los mingitorios”. Esta gente tiene mucho rock, pienso.
 
-14 de Julio
+### 14 de Julio
 
 Camino dos horas por una ruta sin banquina. Hay mucho sol, ruido y viento. Los autos que vienen de frente se tienen que correr al medio para no pisarme. Me da mucha paja y bastante miedo. Me pregunto qué parte de toda esta mierda me gusta.
 
@@ -37,19 +37,19 @@ Entro en la ciudad. Hay negocios feos, gente rota e hileras infinitas de casas i
 
 Hablo con la IA. Quiero entender por qué carajo estoy acá. Por qué me gusta venir a donde nadie viene ¿Tantas ganas tengo de sentirme especial?
 
-15 de Julio
+### 15 de Julio
 
 Camino por lo que fueron las vías del ramal 98C. Según Wikipedia el último tren de carga pasó por acá en 1984 aunque la producción minera se había ido a la mierda mucho antes. Mis imágenes de minas son los grabados del cerro Potosí en la época de la colonia, las fotos de La Oroya o Norilsk o los modelos 3D del Warcraft. Es decir agujeros en montañas. Esto no tiene nada que ver con eso. Es más parecido a una especie Dock Sud invadido por pequeños cerros puntiagudos cubiertos de vegetación. Se llaman terrils, son artificiales y están hechos de descartes de la industria del carbón. Le pregunto a la IA si son tóxicos. Me dice que si estoy de paso no pasa nada pero que vivir al lado de uno de esos no te debe hacer muy bien.
 
 Escalo un terril mientras mando un audio de Whatsapp. Me quedo sin aire. Llego a la parte de arriba de todo y veo hasta el horizonte. La flasheo. Pienso en que hay gente que va al tercer mundo a tener experiencias del primer mundo pero más baratas. Yo, por algún motivo, voy al primer mundo a tener experiencias del tercero pero más caras.    
 
-16 de Julio
+### 16 de Julio
 
 No doy más. Falta mucho para llegar el centro. Estoy muy fucking cansado. 
 
 Pero ahí, abajo de todo, la veo. Es un cartel con una M blanca con fondo azul. Es la orgullosa insignia del Metro de Charleroi. Entro a la estación, subo al andén, saco mi boleto y me siento a esperar. Lo veo llegar. No es muy impresionante. Tengo que correr porque el andén es bastante más largo que el tren. Siento que llamar metro a este tranvía glorificado es algo a mitad de camino entre una exageración y una vil mentira. El trencito arranca y me da un poco de ternura. Es como si el Premetro de Lugano y el Elevated de Chicago hubiésen tenido un hijo poco agraciado. El tranvía se zarandea a un par de pisos de altura mientras zigzageamos entre chimeneas de ladrillo, terrils de color negro y fábricas grafiteadas. La señora con la bolsa del Lidl me observa. No entiende por qué carajo estoy pegado a la ventana como si estuviese cruzando el puente de Brooklyn. 
 
-17 de Julio
+### 17 de Julio
 
 Hoy es mi día libre. Arranco más tarde y encaro para el oeste desde el hostel. Todo me parece indeciblemente horrible y fisura. Paso al lado de una puta muy fulera que está sentada en un cordón. Me tira un besito y me dice algo que estoy muy lejos de entender. Le respondo algo que se parece a un bonjour y esbozo algo que se parece a una sonrisa.  
 
