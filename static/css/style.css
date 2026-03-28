@@ -192,7 +192,7 @@ main {
   hyphens: auto;
 }
 
-.piece-body p + p {
+.escritos .piece-body p + p {
   text-indent: 1.5em;
   margin-top: calc(var(--spacing-unit) * -0.25);
 }
