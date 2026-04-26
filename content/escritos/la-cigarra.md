@@ -8,6 +8,7 @@ subtitle: ""
 Me prendo otro pucho. Ya perdí la cuenta. Miro el celu, miro la calle desde el balcón y vuelvo a mirar la pantalla. Abro el WhatsApp casi por instinto. Ahí arriba están los tres chats pinneados: mi anotador, el grupo con papá y mamá y después Cami. Me quedo mirando un segundo que pareció un ratito. Swipeo para abajo para refreshear. Nada. Respiro hondo, aprieto en su nombre y la despinneo. Se va para abajo. No sé, ni quiero saber, hace cuánto que no nos escribimos. Doy otra seca. Me gustaría que fuera porro pero solo tengo unos industriales de mierda. Me da asco. Me doy asco. Le doy un golpecito y cae hasta la mitad de 25 de Mayo. No quiero ir a casa. No quiero irme a ese Airbnb anónimo que dice ser mi casa. Miro las llaves de ese departamento en la palma de mi mano. Tiene un llaverito de la torre Eiffel en color violeta. Lo odio. Me odio. ¿Cómo estoy otra vez acá? Lo guardo en el bolsillo del abrigo y salgo del balcón. Paso de largo por la barra que tiene el vitral de la cigarra. Levanto la mano y saludo con la cabeza al cajero mientras se despega por un segundo del celular. No me da ni para un "chau" ni para un "buenas noches".
 
 Es martes. Soy lo suficientemente grande como para saber que no debería seguir escabiando. No soy todavía lo suficientemente sabio como para saber qué hacer o adónde ir.
+
 —¿A casa? Me mato.
 
 —¿A otro bar? No debería.
